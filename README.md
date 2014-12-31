@@ -11,7 +11,7 @@ Command-line Arguments:
 
 Your program must be capable of utilizing a command-line argument to specify the input files.
 
-trending startFile endFile
+    trending startFile endFile
 
 
 
